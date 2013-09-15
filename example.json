@@ -1,0 +1,9 @@
+{
+    "extensionName": "ExampleExtension",
+    "extensionPort": 49001,
+    "useHTTP": true,
+    "blockSpecs": [
+        [" ", "log %s", "log", "hello, world!"],
+        ["r", "counter", "counter"]
+    ]
+}
